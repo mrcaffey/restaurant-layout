@@ -1,0 +1,85 @@
+
+body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Lato',sans-serif;
+	font-weight: 300;
+  color: #666;
+  background-image: url ("http://www.colangelopr.com/wp-content/uploads/2016/03/tacopattern.png");
+  font-size: 16px;
+  line-height: 1.6em;
+  justify-content: center;
+}
+
+.header-container {
+  width: 900px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.header {
+  max-width: 500px;
+  margin: auto;
+  align-content: center;
+}
+
+#title {
+  max-width: 1000px;
+  font-size: 36px;
+  justify-content: center;
+
+}
+
+.description-container {
+  max-width: 500px;
+  margin: auto;
+}
+
+#description {
+  font: black;
+}
+
+.menu-container{
+  display: block;
+  max-width: 500px;
+  margin: auto;
+  align: center;
+
+}
+
+#menu {
+  max-width: 1000px;
+  margin: auto;
+  font-size: 36px;
+  background: orange;
+
+}
+
+.menu-description {
+
+}
+
+#menu-item {
+background: orangered;
+align-items: stretch;
+}
+
+.directions {
+  max-width: 500px;
+  margin: auto;
+}
+
+#directions {
+  color: blue;
+}
+
+.footer-container {
+
+}
+
+#footer {
+ background: lime;
+ alignt-content: stretch;
+}
