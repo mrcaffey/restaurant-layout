@@ -72,6 +72,15 @@ background: orangered;
 align-items: stretch;
 }
 
+
+#drinks {
+  max-width: 1000px;
+  margin: auto;
+  font-size: 36px;
+  background: orange;
+
+}
+
 .directions {
   max-width: 500px;
   margin: auto;
