@@ -1,6 +1,4 @@
 
-
-
 body {
   width: 100%;
   height: 100%;
@@ -22,7 +20,7 @@ body {
 }
 
 .header {
-  max-width: 500px;
+  max-width: 200px;
   margin: auto;
   align-content: center;
 }
@@ -35,9 +33,11 @@ body {
 }
 
 .description-container {
-  max-width: 500px;
-  margin: auto;
+  width: 30%;
+  height: auto;
+  margin: 10px;
   justify-content: flex;
+  display: grid;
 
   
 }
@@ -48,10 +48,10 @@ body {
 }
 
 .menu-container{
-  display: block;
-  max-width: 500px;
+  display: grid;
+  width: 30%;
+  height: auto;
   margin: auto;
-  align: center;
 
 }
 
