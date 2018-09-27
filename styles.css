@@ -64,7 +64,7 @@ body {
 }
 
 .menu-description {
-
+display: grid;
 }
 
 #menu-item {
@@ -91,10 +91,10 @@ align-items: stretch;
 }
 
 .footer-container {
-
+display: grid;
 }
 
 #footer {
  background: lime;
- alignt-content: stretch;
+ align-content: stretch;
 }
